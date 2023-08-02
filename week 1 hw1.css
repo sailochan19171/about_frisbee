@@ -1,0 +1,44 @@
+aside{
+
+	display: none;
+
+}
+
+header{
+
+	text-align: center;
+	background: #b2b2b2;
+	color: rgb(255, 255, 255);
+
+}
+
+nav{
+
+	text-align: left;
+
+}
+
+a{
+
+	background: #c5c5c5;
+
+}
+
+h1{
+
+	text-transform: uppercase;
+
+}
+
+h2{
+
+	color: #000080;
+	text-transform: uppercase;
+
+}
+
+.right{
+
+	background: rgba(127, 127, 127, 1);
+	
+}
